@@ -1,4 +1,5 @@
 
+
 tar=open("hightemp.txt")
 count=0
 
